@@ -1,0 +1,20 @@
+﻿  Source.cpp
+c:\users\elvin\source\repos\mathstat1\mathstat1\source.cpp(76): warning C4305: =: усечение из "double" в "float"
+c:\users\elvin\source\repos\mathstat1\mathstat1\source.cpp(84): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\elvin\source\repos\mathstat1\mathstat1\source.cpp(134): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\elvin\source\repos\mathstat1\mathstat1\source.cpp(142): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\elvin\source\repos\mathstat1\mathstat1\source.cpp(154): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+c:\users\elvin\source\repos\mathstat1\mathstat1\source.cpp(163): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+c:\users\elvin\source\repos\mathstat1\mathstat1\source.cpp(208): warning C4305: =: усечение из "double" в "float"
+c:\users\elvin\source\repos\mathstat1\mathstat1\source.cpp(213): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\elvin\source\repos\mathstat1\mathstat1\source.cpp(400): warning C4305: инициализация: усечение из "double" в "float"
+c:\users\elvin\source\repos\mathstat1\mathstat1\source.cpp(406): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\elvin\source\repos\mathstat1\mathstat1\source.cpp(452): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\elvin\source\repos\mathstat1\mathstat1\source.cpp(483): warning C4305: инициализация: усечение из "double" в "float"
+c:\users\elvin\source\repos\mathstat1\mathstat1\source.cpp(489): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\elvin\source\repos\mathstat1\mathstat1\source.cpp(531): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\elvin\source\repos\mathstat1\mathstat1\source.cpp(569): warning C4305: инициализация: усечение из "double" в "float"
+c:\users\elvin\source\repos\mathstat1\mathstat1\source.cpp(580): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\elvin\source\repos\mathstat1\mathstat1\source.cpp(581): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\elvin\source\repos\mathstat1\mathstat1\source.cpp(260): warning C4715: freqfunc: значение возвращается не при всех путях выполнения
+  MathStat1.vcxproj -> C:\Users\Elvin\source\repos\MathStat1\Debug\MathStat1.exe
